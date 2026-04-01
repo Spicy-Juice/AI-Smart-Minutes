@@ -1,0 +1,5 @@
+{
+  "name": "AI 스마트 회의록",
+  "description": "음성을 인식하여 자동으로 회의록을 작성하고 요약해주는 AI 어시스턴트입니다.",
+  "requestFramePermissions": ["microphone"]
+}
